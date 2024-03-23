@@ -1,0 +1,2 @@
+# FinancialTradingPlatformApplication
+FinancialTradingPlatformApplication
