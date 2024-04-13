@@ -1,2 +1,1 @@
 # FinancialTradingPlatformApplication
-FinancialTradingPlatformApplication
